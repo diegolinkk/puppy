@@ -1,4 +1,4 @@
-package main
+package puppy
 
 func Latir() string {
 	return "Woof woof"
